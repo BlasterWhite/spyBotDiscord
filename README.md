@@ -5,6 +5,5 @@ npm init
 ```
 OR 
 ```cmd
-npm install discord.js --save
-npm install ws --save
+npm install discord.js --save && npm install ws --save
 ```
